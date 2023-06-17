@@ -9,7 +9,6 @@
 /public/vendors
 /storage/*.key
 /vendor
-package.json
 package-lock.json
 .env
 .env.backup
