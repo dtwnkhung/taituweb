@@ -1,0 +1,43 @@
+@import url("../../public/assets/css/all.css");
+@import url("../../public/assets/css/bootstrap-icons.css");
+@import url("../../public/assets/css/boxicons.min.css");
+@import url("../../public/assets/css/bootstrap.min.css");
+@import url("../../public/assets/css/animate.css");
+@import url("../../public/assets/css/slick.css");
+@import url("../../public/assets/css/swiper-bundle.css");
+@import url("../../public/assets/css/style.css");
+
+.recent-post-area,
+.Shop-pages,
+.blog-standard-pages{
+    .pagination {
+        padding-top: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .page-link {
+        font-size: 1.125rem;
+        font-weight: 600;
+        color: var(--primary-color1);
+        font-family: var(--font-jost);
+        border-radius: 5px;
+        margin: 10px;
+
+        &:hover{
+            color: var(--white);
+            background-color: var(--primary-color1);
+            }
+            &:focus{
+                box-shadow: none;
+            }
+    }
+    .page-item.active .page-link {
+        z-index: 3;
+        color: #fff;
+        background-color:var(--primary-color1);
+        border-color: #e9ecef;
+    }
+
+}
+ 

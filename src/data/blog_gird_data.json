@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/source/phong_19.JPG",
+    "date": "20/03/2023",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng"
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/source/phong_16.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/source/phong_19.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+
+  {
+    "id": 4,
+    "image": "/assets/images/source/phong_22.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "01 Aug,2022"
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/source/phong_25.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/source/phong_10.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/source/phong_13.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/source/phong_15.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/source/phong_18.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "18 Aug,2022"
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/source/6.jpg",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/source/13.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/source/19.JPG",
+    "title": "Tiêu đề nội dung tin tức được đăng, tối đa sẽ hiển thị 2 dòng.",
+    "date": "20/03/2023"
+  }
+]
